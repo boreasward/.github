@@ -28,7 +28,7 @@ The Chinese name **溯风** (sù fēng) carries the same idea. 溯 means to go u
 | Primary | **Against the wind, northward.** |
 | About page | The wind comes from the north. We walk north. |
 | Research | Upwind, to see where it all comes from. |
-| Podcast | Walk to where the wind begins. |
+| Podcast | Where the wind begins. |
 
 ## The mark
 
@@ -73,7 +73,7 @@ Rules
 |---|---|---|
 | Organization | Boreasward · 溯风 | Standard mark |
 | Writing | 溯风 | Standard mark |
-| Podcast | 溯风, or *Walk to where the wind begins* | Dark avatar as cover base |
+| Podcast | [去风开始的地方 · Where the Wind Begins](https://github.com/boreasward/podcast) | Dark avatar as cover base |
 | Research workbench | To be named | A separate "B" wordmark, to come |
 
 ---

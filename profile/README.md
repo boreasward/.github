@@ -16,6 +16,7 @@ Boreasward is walking into the wind, to where it begins.<br>
 </p>
 
 <p align="center">
+  <a href="https://github.com/boreasward/podcast">Podcast · 去风开始的地方</a> ·
   <a href="https://github.com/boreasward/.github/blob/main/README.md">Brand</a> ·
   <a href="https://github.com/boreasward/.github/blob/main/README_zh.md">品牌说明</a>
 </p>
