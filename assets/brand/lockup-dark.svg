@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100" width="1080" height="300">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 86V22" stroke="#e8eef4" stroke-width="7"/>
+    <path d="M34 36 50 18 66 36" stroke="#e8eef4" stroke-width="7"/>
+    <path d="M14 44h20M20 60h14M26 76h8" stroke="#9cc4e0" stroke-width="6"/>
+    <path d="M66 44h20M66 60h14M66 76h8" stroke="#9cc4e0" stroke-width="6"/>
+  </g>
+  <text x="112" y="56" font-family="Noto Serif SC, Songti SC, STSong, serif" font-weight="700" font-size="36" letter-spacing="10" fill="#e8eef4">溯风</text>
+  <text x="114" y="80" font-family="Jost, Avenir Next, Helvetica Neue, sans-serif" font-weight="500" font-size="13" letter-spacing="6" fill="#a3b2c2">BOREASWARD</text>
+</svg>
